@@ -1,0 +1,214 @@
+# RETAIL SALES ANALYSIS
+### Python Data Analysis Project
+
+**1. Introduction**
+
+Retail Sales Analysis is a data analysis project. In this project, I analyzed retail sales data to understand business performance.
+
+I used Python to clean, analyze, and visualize the data.
+
+I studied sales, revenue, customer behavior, product categories, age groups, and monthly sales trends.
+
+The main purpose of this project is to understand sales performance and find useful business insights.
+
+---
+
+**2. Project Objectives**
+
+The main objectives of this project are:
+
+- To analyze retail sales data.
+- To understand monthly sales and revenue trends.
+- To find the highest revenue-generating product category.
+- To analyze customer behavior based on age and gender.
+- To identify top customers.
+- To calculate important business KPIs.
+- To create charts and graphs for better understanding.
+- To find useful business insights and recommendations.
+
+---
+
+**3. Tools and Technologies Used**
+
+I used the following tools and technologies:
+
+- **Python:** For data analysis.
+- **Pandas:** For data cleaning and data manipulation.
+- **NumPy:** For numerical operations.
+- **Matplotlib:** For creating charts and graphs.
+- **Seaborn:** For data visualization.
+- **VS Code:** For writing and running Python code.
+
+---
+
+**4. Dataset Description**
+
+The dataset contains retail sales information.
+
+It has 1,000 records and includes information such as:
+
+- Transaction ID
+- Date
+- Customer ID
+- Gender
+- Age
+- Product Category
+- Quantity
+- Price per Unit
+- Total Amount
+
+The dataset helps us understand customer purchases and business sales performance.
+
+---
+
+**5. Data Cleaning and Preparation**
+
+Before analyzing the data, I prepared the dataset.
+
+The following steps were performed:
+
+- Imported the required Python libraries.
+- Loaded the dataset using Pandas.
+- Checked the dataset rows and columns.
+- Checked column names and data types.
+- Prepared the Date column.
+- Extracted Year, Month, and Day from the Date column.
+- Used the prepared data for further analysis.
+
+---
+
+**6. Key Performance Indicators (KPIs)**
+
+I calculated 20 important KPIs to understand business performance.
+
+1. Total Revenue – ₹4,56,000
+2. Highest Revenue Product Category – Electronics
+3. Monthly Revenue – Calculated month-wise.
+4. Total Quantity Sold – 2,514 units
+5. Average Transaction Value – ₹456
+6. Best-Selling Product Category – Electronics (849 units)
+7. Highest Revenue Age Group – 61–80 (₹1,94,165)
+8. Gender-wise Revenue – Female: ₹2,32,840; Male: ₹2,23,160
+9. Top 5 Customers by Revenue – Each generated ₹2,000
+10. Category-wise Average Selling Price – Beauty: ₹184.06, Electronics: ₹181.90, Clothing: ₹174.29
+11. Monthly Quantity Sold – Calculated month-wise.
+12. Gender-wise Quantity – Female: 1,298; Male: 1,216
+13. Product Category-wise Quantity – Clothing: 894, Electronics: 849, Beauty: 771
+14. Average Quantity per Transaction – 2.514 units
+15. Maximum Transaction Value – ₹2,000
+16. Minimum Transaction Value – ₹25
+17. Total Number of Transactions – 1,000
+18. Total Unique Customers – 1,000
+19. Revenue Contribution by Gender – Female: 51.06%; Male: 48.94%
+20. Average Revenue per Customer – ₹456
+
+---
+
+**7. Data Visualization**
+
+I created 20 visualizations using Matplotlib and Seaborn.
+
+The visualizations include:
+
+1. Monthly Revenue Analysis
+2. Product Category-wise Revenue
+3. Gender-wise Revenue
+4. Gender-wise Quantity Sold
+5. Age Group-wise Revenue
+6. Top 5 Customers by Revenue
+7. Product Category-wise Quantity Sold
+8. Monthly Quantity Sold
+9. Gender-wise Revenue Contribution
+10. Top Revenue-Generating Categories
+11. Quantity vs Revenue Analysis
+12. Revenue Distribution by Product Category
+13. Monthly Revenue Heatmap
+14. Category-wise Revenue Bar Plot
+15. Monthly Sales Trend
+16. Gender-wise Quantity Bar Plot
+17. Age Distribution Histogram
+18. Revenue Distribution Histogram
+19. Transaction Amount Boxplot
+20. Correlation Heatmap
+
+These charts helped me understand sales patterns and customer behavior more clearly.
+
+---
+
+**8. Business Insights and Recommendations**
+
+**Insight 1: Gender-wise Revenue Contribution**
+
+Observation: Female customers give about half of the total revenue.
+
+Meaning: Women customers are important for our sales.
+
+Recommendation: We should make offers for female customers.
+
+**Insight 2: Age Group-wise Revenue Analysis**
+
+Observation: The 61–80 age group generates the highest revenue.
+
+Meaning: People in this age range spend more money.
+
+Recommendation: We can make offers or discounts for that age group.
+
+**Insight 3: Top Revenue-Generating Product Category**
+
+Observation: Electronics generates the highest revenue.
+
+Meaning: Customers spend more money on electronics compared to other categories.
+
+Recommendation: Business should keep enough stock of electronics.
+
+**Insight 4: Monthly Revenue Trend**
+
+Observation: May has the highest revenue, while September has the lowest revenue in 2023.
+
+Meaning: Sales revenue changes from month to month.
+
+Recommendation: The business should plan special offers during months with low sales.
+
+**Insight 5: Product Category-wise Quantity**
+
+Observation: Clothing has the highest quantity sold.
+
+Meaning: Customers purchase more clothing products compared to other categories.
+
+Recommendation: The business should maintain sufficient clothing stock.
+
+**Insight 6: Gender-wise Quantity Sold**
+
+Observation: Female customers purchase more products than male customers.
+
+Meaning: Female customers contribute slightly more to the total quantity sold.
+
+Recommendation: The business should understand the shopping preferences of both groups.
+
+---
+
+**9. Conclusion**
+
+This Retail Sales Analysis project helped me understand retail sales data using Python.
+
+I analyzed revenue, customer behavior, product categories, and monthly sales trends.
+
+I calculated 20 KPIs and created 20 visualizations using Matplotlib and Seaborn.
+
+I also identified important business insights that can help a business understand its performance and make better decisions.
+
+Through this project, I improved my skills in Python, Pandas, Matplotlib, Seaborn, and data analysis.
+
+This project gave me practical experience in working with real-world sales data.
+
+---
+
+**10. Skills Learned**
+
+- Data Cleaning and Preparation
+- Data Analysis using Pandas
+- Data Grouping and Aggregation
+- KPI Calculation
+- Data Visualization
+- Business Insights
+- Analytical Thinking
